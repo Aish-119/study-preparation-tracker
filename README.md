@@ -26,7 +26,7 @@ It tracks streaks, gathers weekly performance summaries, and records study logs 
 
 ## Future Improvements 
 Looking forward to add as many AI stacks and technologies which makes the learning journey progressive and to make learning a thoughtful, an interesting experience to students.
-> *Add analytics for weak topic detection*
-> *Deploy on cloud with CI/CD*
-> *Add frontend interface*
-> *Use ML for personalized study suggestions*
+1. *Add analytics for weak topic detection*
+2. *Deploy on cloud with CI/CD*
+3.  *Add frontend interface*
+4.   *Use ML for personalized study suggestions*
