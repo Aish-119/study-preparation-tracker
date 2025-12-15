@@ -2,7 +2,7 @@
 
 > A comprehensive tool to organize, track, and optimize your study sessions and exam preparation.
 
-## 🧐 Problem Statement
+## Problem Statement
 
 Students and self-learners often struggle with:
 * **Disorganized Schedules:** Losing track of what topics need to be covered and when.
@@ -12,7 +12,7 @@ Students and self-learners often struggle with:
 **The Solution:**
 The **Study Preparation Tracker** acts as a centralized dashboard. It replaces scattered spreadsheets and sticky notes with a structured system to track syllabus coverage, manage time via Pomodoro, and visualize progress toward exam readiness.
 
-## 🚀 Key Features
+## Key Features
 
 * **dashboard Overview:** Get a visual snapshot of your current progress, upcoming deadlines, and study streaks.
 * **Syllabus Manager:** Break down large subjects into manageable chapters and topics.
@@ -21,4 +21,3 @@ The **Study Preparation Tracker** acts as a centralized dashboard. It replaces s
 * **Resource Repository:** Attach links, PDF paths, or notes directly to specific study topics.
 * **Analytics:** View charts showing daily study time and subject-wise strength/weakness analysis.
 
-   git clone [https://github.com/your-username/study-preparation-tracker.git](https://github.com/your-username/study-preparation-tracker.git)
