@@ -10,21 +10,21 @@ This happens due to the wrong methods of learning or if there is no proper  comm
 This application helps student design their learning roadmaps according to their own concerns and time slots, it asks a few questions to the students about their routine and intersts and gives suggestions on roadmaps and timetable and sources of youtube links based on thier chosen streams of study. It also tracks the progress of the student learning using a daily streak method and adds points for every task,question or a problem they solve. The student gets rewards of coins, stickers and many more benefits as they gain more interest on learning.
 
 
-#Key Features 
-. Self-Paced learning platform.
-. Unique way of approaching student learning.
-. Creates a long-term goal and guide them achieve.
-. Chunks of learning creating a huge impact.
+## Key Features 
+1. *Self-Paced learning platform.*
+2. *Unique way of approaching student learning.*
+3. *Creates a long-term goal and guide them achieve.*
+4. *Chunks of learning creating a huge impact.*
 
 
 ## Tech Stack 
-. Python 3.10+
-. FastAPI
-. SQLite (initial)
-. SQLAlchemy
-. JWT Authentication
-. Uvicorn
-. Git + GitHub
+1. Python 3.10+
+2.  FastAPI
+3.  SQLite (initial)
+4. SQLAlchemy
+5. JWT Authentication
+6. Uvicorn
+7. Git + GitHub
 
 
 ## Future Improvements 
