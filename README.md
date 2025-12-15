@@ -1,21 +1,18 @@
 # Study-Preparation-Tracker 
 
-## Problem Statement 
-
-Most of the students show true interest in studying but fail keeping it up to date or even miss classes and chunks of syllabus in their journey of gaining knowledge.This happens due to the wrong methods of learning or if there is no proper  commitment. 
-Example if a student is preparing for GATE like exam and they've to put a constant effort which they lack in actual, and they have nothing to help or remind them to get back with same energy and thirst to learn, and even if they get back to learn they would have lost their track of learning.
-
+College and exam-aspiring students struggle to keep consistent track of study activities.
+Existing manual methods lack structured tracking, progress summaries, and actionable insights.
 
 ## Solution
-This application helps student design their learning roadmaps according to their own concerns and time slots, it asks a few questions to the students about their routine and intersts and gives suggestions on roadmaps and timetable and sources of youtube links based on thier chosen streams of study. It also tracks the progress of the student learning using a daily streak method and adds points for every task,question or a problem they solve. The student gets rewards of coins, stickers and many more benefits as they gain more interest on learning.
-It tracks the learning pace and topics of the student up to date and motivates them to get back learning with active notifications. It analyses the progress and gives a graph of their journey of progress.
-
+This project provides a backend API for students to log daily study activities.
+It tracks streaks, gathers weekly performance summaries, and records study logs so learners can monitor consistency and identify weak spots. The system exposes REST endpoints for authentication, logging activities, and retrieving reports.
 
 ## Key Features 
-1. *Self-Paced learning platform.*
-2. *Unique way of approaching student learning.*
-3. *Creates a long-term goal and guide them achieve.*
-4. *Chunks of learning creating a huge impact.*
+1. JWT-based user registration and login
+2. Daily study log creation and retrieval
+3. Tracking and reporting of study streaks
+4. Weekly performance summaries via API
+5. SQLite database (with future move to PostgreSQL)
 
 
 ## Tech Stack 
@@ -25,17 +22,11 @@ It tracks the learning pace and topics of the student up to date and motivates t
 4. SQLAlchemy
 5. JWT Authentication
 6. Uvicorn
-7. Git + GitHub
 
 
 ## Future Improvements 
 Looking forward to add as many AI stacks and technologies which makes the learning journey progressive and to make learning a thoughtful, an interesting experience to students.
->*Gamification:* Helps students grasp the concepts better and improves their motivation in the journey of learning
-
->*Building Study Groups:* Students get connected from various interests and can improve build networking.
-
->*Mobile Application:* Launch a mobile app for iOS and Android for easy access.
-
->*AI chat bot:* Suggests the next topic in the roadmap, makes corrections based on past performances and helps find the previous topics, answers questions asked about the application.
-
->*Personalised recommendations:* Identifies the problems faced by the student while learning a particular concept of solving a problem.
+> *Add analytics for weak topic detection*
+> *Deploy on cloud with CI/CD*
+> *Add frontend interface*
+> *Use ML for personalized study suggestions*
